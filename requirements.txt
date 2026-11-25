@@ -1,0 +1,8 @@
+pvporcupine
+faster-whisper
+sounddevice
+numpy
+ollama
+pyperclip
+requests
+python-dotenv

@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+venv/
+
+# Secrets & local wake-word model
+.env
+*.ppn
+
+# Piper TTS binaries & voice models (downloaded during setup)
+piper/
+
+# Python cache & logs
+__pycache__/
+*.py[cod]
+*.log
